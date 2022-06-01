@@ -1,0 +1,14 @@
+name: Main Workflow
+on:
+  workflow_dispatch:
+  push: {
+    branches: ["master", "main"]
+  }
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  test:
+    runs-on: ["windows-latest"]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.4.0
