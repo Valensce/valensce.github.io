@@ -1,6 +1,5 @@
 <div align="center">
-	<hr>
-	<h1><a href="https://valensce.me"><code>https://valensce.me/</code></a></h1>
-	<hr>
-	<a href="https://github.com/Valensce/valensce.github.io/actions/workflows/main.yml"><img src="https://github.com/Valensce/valensce.github.io/actions/workflows/main.yml/badge.svg?branch=main"></a>
+	<a href="https://valensce.me"><kbd>Click me</kbd></a>
 <div>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=26&color=A19CFFFF&center=true&lines=Absolutely+adorable.;-+Valensce">
